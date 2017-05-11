@@ -1,4 +1,4 @@
-# Thrusday Midterm Check In
+# Thursday Midterm Check In
 
  - Please fork this repo to check in for the midterm. This is to help us know who is here, since some students requested to attend a section for which they are not enrolled.
  - Just click the "Fork" button; you don't have to clone or anything.
